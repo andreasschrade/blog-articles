@@ -1,4 +1,4 @@
-# Codebase for tutorials on my [blog](https://andreasschrade.com) 
+# Codebase for tutorials on my [blog andreasschrade.com](https://www.andreasschrade.com) 
 
 ## HOWTO's:
 
